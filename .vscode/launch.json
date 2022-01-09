@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiVeiculosApplication<api-veiculos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.tinnova.lobao.apiveiculos.ApiVeiculosApplication",
+            "projectName": "api-veiculos",
+            "args": ""
+        }
+    ]
+}
